@@ -34,7 +34,7 @@ We are **Team-Blacx**, a powerhouse team of experts in **cybersecurity**, **auto
 ## 📊 **Visual Overview**
 ### **GitHub Performance**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Team-Blacx&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Team-Blacx&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Team-blacx&layout=compact&theme=radical)
 
 ### **Dynamic Contributions**
 ![Dynamic Contributions GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVnbjljeHowcHNrbnJrYnlqd3hyaGR3dGVzczU1dGFyMWxzZGRnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp)
