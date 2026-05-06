@@ -1,35 +1,50 @@
 # Team-Blacx
 
-Independent developers focused on **privacy-first applications**, **decentralized communication systems**, **AI tooling**, and **advanced networking research**.
-
 <div align="center">
-  <img src="https://github.com/Team-blacx/Bucket/raw/master/appicon.png" width="96" alt="Team-Blacx Logo" />
-  <h3>Building tools that respect human privacy.</h3>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" />
+  
+  <h3>Independent Developer | Privacy Tech | Android Engineering</h3>
+  <p>Building tools that respect human privacy and digital freedom.</p>
 </div>
 
 ---
 
-## 🛡️ Our Focus
+## 🛡️ My Focus
 
-We engineer software that prioritizes user sovereignty and security by design.
+I engineer software that prioritizes **user sovereignty** and **security by design**.
 
-- **🔒 Privacy-First Applications:** End-to-end encryption, zero-knowledge architecture, and data minimization.
-- **🌐 Decentralized Communication:** Serverless protocols that eliminate centralized data honeypots.
-- **🤖 AI Tooling:** Practical, efficient AI integrations for development and automation.
-- **📱 Android Development:** High-performance, lightweight mobile applications.
-- **🔬 Networking Research:** Exploring the next generation of resilient and secure network architectures.
+- **🔒 Privacy-First Applications:** End-to-end encryption and data minimization.
+- **🌐 Decentralized Systems:** Serverless protocols and P2P networking.
+- **📱 Android Development:** High-performance Kotlin apps.
+- **🤖 AI & Automation:** Practical tooling for efficiency.
+- **🔬 Networking Research:** Advanced routing and anonymity.
+
+## 💻 Tech Stack & Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## 🚀 Flagship Project
+## 🚀 Flagship Project: Bucket Messenger
 
 <div align="center">
-  <h3><a href="https://github.com/Team-blacx/Bucket">Bucket Messenger</a></h3>
-  <p>The ultimate private messenger. No servers. No phone numbers. No accounts. Your device is the server.</p>
-  <p><i>100% Anonymous • Tor-Powered • Open Source</i></p>
+  <img src="https://github.com/Team-blacx/Bucket/raw/master/appicon.png" width="96" />
+  <h3>The Ultimate Private Messenger</h3>
+  <p>No servers. No phone numbers. No accounts. Your device is the server.</p>
   <br>
-  <a href="https://github.com/Team-blacx/Bucket/releases">
-    <img src="https://img.shields.io/badge/Download_Latest-v2.7_Beta-2563eb?style=for-the-badge&logo=android&logoColor=white" alt="Download Bucket" />
+  <a href="https://github.com/Team-blacx/Bucket" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+  &nbsp;
+  <a href="https://team-blacx.github.io/Bucket/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Website-007AFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
 
@@ -38,15 +53,7 @@ We engineer software that prioritizes user sovereignty and security by design.
 ## 🌍 Community & Connect
 
 <div align="center" style="margin: 20px 0;">
-  <a href="https://t.me/team_blacx" target="_blank" style="text-decoration:none;">
+  <a href="https://t.me/team_blacx" target="_blank">
     <img src="https://img.shields.io/badge/Join_Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  &nbsp;
-  <a href="https://team-blacx.github.io/Bucket/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Visit_Website-007AFF?style=for-the-badge&logo=github&logoColor=white" alt="Website" />
-  </a>
 </div>
-
----
-
-> **Ethical Software Engineering:** We believe technology should empower users, not exploit them. Every line of code we write is committed to a safer, more private digital future.
