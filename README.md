@@ -38,19 +38,24 @@ We engineer software that prioritizes user sovereignty and security by design.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Team-Blacx&show_icons=true&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=2563eb" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Team-blacx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Team-Blacx&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Team-blacx&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
 
 ## 🌍 Community & Connect
 
-Join our open-source journey and stay updated on the latest in privacy tech.
-
-- **Telegram:** [t.me/team_blacx](https://t.me/team_blacx)
-- **Website:** [team-blacx.github.io/Bucket](https://team-blacx.github.io/Bucket/)
+<div align="center" style="margin: 20px 0;">
+  <a href="https://t.me/team_blacx" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Join_Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://team-blacx.github.io/Bucket/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Visit_Website-007AFF?style=for-the-badge&logo=github&logoColor=white" alt="Website" />
+  </a>
+</div>
 
 ---
 
