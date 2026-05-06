@@ -35,16 +35,6 @@ We engineer software that prioritizes user sovereignty and security by design.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Team-blacx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Team-blacx&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
----
-
 ## 🌍 Community & Connect
 
 <div align="center" style="margin: 20px 0;">
